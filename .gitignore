@@ -1,0 +1,4 @@
+office_data.db
+__pycache__/
+.env
+.streamlit/
