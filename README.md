@@ -4,14 +4,13 @@ A professional **Generative AI** dashboard that allows users to query a SQL data
 
 ## 🚀 Key Features
 * **Natural Language to SQL:** Converts English questions into complex SQL queries automatically.
-* **Conversational Memory:** Remembers previous parts of the chat to answer follow-up questions.
 * **Interactive Dashboard:** Side-by-side view of the AI chat and a live database preview.
 * **Automated Data Pipeline:** Imports raw `data.csv` (Retail Sales) into a structured SQLite database.
 * **High Performance:** Powered by Groq’s LPU for sub-second AI response times.
 
 ## 🛠️ Tech Stack
 * **LLM:** Groq (Llama-3.3-70b-versatile)
-* **Framework:** LangChain (SQL Agent & Memory)
+* **Framework:** LangChain (SQL Agent)
 * **Frontend:** Streamlit
 * **Database:** SQLite / SQLAlchemy
 * **Data Processing:** Pandas
