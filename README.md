@@ -20,7 +20,11 @@ A professional **Generative AI** dashboard that allows users to query a SQL data
 * **State Management:** Streamlit is stateless by nature. I used `st.session_state` to store chat history, ensuring a seamless conversation flow.
 * **Schema Mapping:** Handled messy CSV headers by implementing a cleaning layer in Pandas before SQL migration.
 * **Agent Reliability:** Fine-tuned the LangChain SQL Agent to ensure it only performs "Read" operations, keeping the database safe from accidental deletions.
+  
+📺 Project Demo
+Experience the project in action! Since the high-quality demo video is large, you can view the full walkthrough by clicking the link below:
 
+👉 https://drive.google.com/file/d/1ECKgN8WerzfB-cWNQTwQ_Ci7baDbPnOv/view?usp=sharing
 ---
 **Developed by Sanket** | Data Analyst Intern 2026 🚀
 
